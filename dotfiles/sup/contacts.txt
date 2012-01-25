@@ -22,8 +22,8 @@ nic: Nic Ross <npross@lbl.gov>
 nikhil: Nikhil Padmanabhan <nikhil.padmanabhan@yale.edu>
 ryan: Ryan Scranton <ryan.scranton@gmail.com>
 sly: Sarah Lybrand <slybrand@atlasmediacorp.com>
+surhud: Surhud More <surhud@kicp.uchicago.edu>
 ludlam: Thomas Ludlam <ludlam@bnl.gov>
 throwe: Thomas Throwe <throwe@bnl.gov>
 mzm: Zhaoming Ma <mzm@bnl.gov>
 sdss3-boss: sdss3-boss <sdss3-boss@sdss3.org>
-surhud: Surhud More <surhud@kicp.uchicago.edu>

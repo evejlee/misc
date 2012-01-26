@@ -1,6 +1,7 @@
 adam: Adam Myers <admyers@illinois.edu>
 amy: Amy Kimball <kimball.amy.e@gmail.com>
 anze: Anže Slosar <anze@bnl.gov>
+carlos: Carlos Cunha <carloscunha47@gmail.com>
 mom: Cathy Sheldon <casheldon@gmail.com>
 schlegel: David Schlegel <djschlegel@lbl.gov>
 donp: Donald Petravick <donaldp@ncsa.illinois.edu>
@@ -21,6 +22,7 @@ nic: Nic Ross <npross@lbl.gov>
 nikhil: Nikhil Padmanabhan <nikhil.padmanabhan@yale.edu>
 ryan: Ryan Scranton <ryan.scranton@gmail.com>
 sly: Sarah Lybrand <slybrand@atlasmediacorp.com>
+surhud: Surhud More <surhud@kicp.uchicago.edu>
 ludlam: Thomas Ludlam <ludlam@bnl.gov>
 throwe: Thomas Throwe <throwe@bnl.gov>
 mzm: Zhaoming Ma <mzm@bnl.gov>

@@ -1,3 +1,4 @@
+dorothy: "Davis, Dorothy" <dorothyd@bnl.gov>
 adam: Adam Myers <admyers@illinois.edu>
 amy: Amy Kimball <kimball.amy.e@gmail.com>
 anze: Anže Slosar <anze@bnl.gov>
@@ -7,14 +8,16 @@ schlegel: David Schlegel <djschlegel@lbl.gov>
 donp: Donald Petravick <donaldp@ncsa.illinois.edu>
 rozo: Eduardo Rozo <erozo@kicp.uchicago.edu>
 eli: Eli Rykoff <esrykoff@lbl.gov>
+bray: Erik Bray <embray@stsci.edu>
 me: Erin Sheldon <erin.sheldon@gmail.com>
 huan: Huan Lin <hlin@fnal.gov>
-tinker: Jeremy Tinker <tinker@berkeley.edu>
+tinker: Jeremy Tinker <jeremy.tinker@nyu.edu>
 annis: Jim Annis <annis@fnal.gov>
 jo: Jo Bovy <jo.bovy@nyu.edu>
 hennawi: Joseph Hennawi <joe@mpia.de>
 kyle: Kyle Dawson <kdawson@astro.utah.edu>
 laur: Laurence Littenberg <littenbe@bnl.gov>
+simet: Melanie Simet <msimet@oddjob.uchicago.edu>
 blanton: Michael Blanton <michael.blanton@gmail.com>
 jarvis: Mike Jarvis <michael@jarvis.net>
 morgan: Morgan May <may@bnl.gov>
@@ -26,4 +29,5 @@ surhud: Surhud More <surhud@kicp.uchicago.edu>
 ludlam: Thomas Ludlam <ludlam@bnl.gov>
 throwe: Thomas Throwe <throwe@bnl.gov>
 mzm: Zhaoming Ma <mzm@bnl.gov>
+des-wl-test: des-wl-test <des-wl-test@fnal.gov>
 sdss3-boss: sdss3-boss <sdss3-boss@sdss3.org>

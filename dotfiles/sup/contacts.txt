@@ -2,6 +2,7 @@ dorothy: "Davis, Dorothy" <dorothyd@bnl.gov>
 adam: Adam Myers <admyers@illinois.edu>
 amy: Amy Kimball <kimball.amy.e@gmail.com>
 anze: Anže Slosar <anze@bnl.gov>
+brett: Brett Jackson <imbrettjackson@gmail.com>
 carlos: Carlos Cunha <carloscunha47@gmail.com>
 mom: Cathy Sheldon <casheldon@gmail.com>
 schlegel: David Schlegel <djschlegel@lbl.gov>

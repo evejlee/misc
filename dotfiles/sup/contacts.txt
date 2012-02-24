@@ -15,12 +15,14 @@ huan: Huan Lin <hlin@fnal.gov>
 tinker: Jeremy Tinker <jeremy.tinker@nyu.edu>
 annis: Jim Annis <annis@fnal.gov>
 jo: Jo Bovy <jo.bovy@nyu.edu>
+parejko: John K. Parejko <john.parejko@yale.edu>
 hennawi: Joseph Hennawi <joe@mpia.de>
 kyle: Kyle Dawson <kdawson@astro.utah.edu>
 laur: Laurence Littenberg <littenbe@bnl.gov>
 simet: Melanie Simet <msimet@oddjob.uchicago.edu>
 blanton: Michael Blanton <michael.blanton@gmail.com>
 jarvis: Mike Jarvis <michael@jarvis.net>
+swanson: Molly Swanson <mswanson@cfa.harvard.edu>
 morgan: Morgan May <may@bnl.gov>
 nic: Nic Ross <npross@lbl.gov>
 nikhil: Nikhil Padmanabhan <nikhil.padmanabhan@yale.edu>
@@ -29,6 +31,8 @@ sly: Sarah Lybrand <slybrand@atlasmediacorp.com>
 surhud: Surhud More <surhud@kicp.uchicago.edu>
 ludlam: Thomas Ludlam <ludlam@bnl.gov>
 throwe: Thomas Throwe <throwe@bnl.gov>
+ying: Ying Zu <zuying@gmail.com>
 mzm: Zhaoming Ma <mzm@bnl.gov>
 des-wl-test: des-wl-test <des-wl-test@fnal.gov>
+redmapper: redmapper <redmapper@kipac.stanford.edu>
 sdss3-boss: sdss3-boss <sdss3-boss@sdss3.org>

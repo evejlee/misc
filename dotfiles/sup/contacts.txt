@@ -8,10 +8,11 @@ mom: Cathy Sheldon <casheldon@gmail.com>
 schlegel: David Schlegel <djschlegel@lbl.gov>
 donp: Donald Petravick <donaldp@ncsa.illinois.edu>
 rozo: Eduardo Rozo <erozo@kicp.uchicago.edu>
-eli: Eli Rykoff <esrykoff@lbl.gov>
+eli: Eli Rykoff <erykoff@slac.stanford.edu>
 bray: Erik Bray <embray@stsci.edu>
 me: Erin Sheldon <erin.sheldon@gmail.com>
 huan: Huan Lin <hlin@fnal.gov>
+bourque: Jay Bourque <jayvius@gmail.com>
 tinker: Jeremy Tinker <jeremy.tinker@nyu.edu>
 annis: Jim Annis <annis@fnal.gov>
 jo: Jo Bovy <jo.bovy@nyu.edu>
@@ -31,6 +32,8 @@ sly: Sarah Lybrand <slybrand@atlasmediacorp.com>
 surhud: Surhud More <surhud@kicp.uchicago.edu>
 ludlam: Thomas Ludlam <ludlam@bnl.gov>
 throwe: Thomas Throwe <throwe@bnl.gov>
+oliphant: Travis Oliphant <travis@continuum.io>
+mckinney: Wes McKinney <wesmckinn@gmail.com>
 ying: Ying Zu <zuying@gmail.com>
 mzm: Zhaoming Ma <mzm@bnl.gov>
 des-wl-test: des-wl-test <des-wl-test@fnal.gov>

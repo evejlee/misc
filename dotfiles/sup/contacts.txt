@@ -36,6 +36,7 @@ melchior: Peter Melchior <peter.m.melchior@gmail.com>
 rachel: Rachel Mandelbaum <rmandelb@astro.princeton.edu>
 ryan: Ryan Scranton <ryan.scranton@gmail.com>
 sly: Sarah Lybrand <slybrand@atlasmediacorp.com>
+sly: Sarah Lybrand <slybrand@gmail.com>
 surhud: Surhud More <surhud@kicp.uchicago.edu>
 ludlam: Thomas Ludlam <ludlam@bnl.gov>
 throwe: Thomas Throwe <throwe@bnl.gov>

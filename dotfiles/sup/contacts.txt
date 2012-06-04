@@ -1,27 +1,50 @@
+dorothy: "Davis, Dorothy" <dorothyd@bnl.gov>
 adam: Adam Myers <admyers@illinois.edu>
+plazas: Alejandro Plazas Malagón <plazasmalagon@gmail.com>
 amy: Amy Kimball <kimball.amy.e@gmail.com>
 anze: Anže Slosar <anze@bnl.gov>
+rowe: Barnaby Rowe <barnaby.t.p.rowe@gmail.com>
+brett: Brett Jackson <imbrettjackson@gmail.com>
+carlos: Carlos Cunha <carloscunha47@gmail.com>
 mom: Cathy Sheldon <casheldon@gmail.com>
+eisenstein: Daniel Eisenstein <deisenstein@cfa.harvard.edu>
 schlegel: David Schlegel <djschlegel@lbl.gov>
 donp: Donald Petravick <donaldp@ncsa.illinois.edu>
 rozo: Eduardo Rozo <erozo@kicp.uchicago.edu>
-eli: Eli Rykoff <esrykoff@lbl.gov>
+eli: Eli Rykoff <erykoff@slac.stanford.edu>
+bray: Erik Bray <embray@stsci.edu>
 me: Erin Sheldon <erin.sheldon@gmail.com>
 huan: Huan Lin <hlin@fnal.gov>
-tinker: Jeremy Tinker <tinker@berkeley.edu>
+bourque: Jay Bourque <jayvius@gmail.com>
+tinker: Jeremy Tinker <jeremy.tinker@nyu.edu>
 annis: Jim Annis <annis@fnal.gov>
 jo: Jo Bovy <jo.bovy@nyu.edu>
+mccarthy: John E. McCarthy <mccarthy@bnl.gov>
+parejko: John K. Parejko <john.parejko@yale.edu>
 hennawi: Joseph Hennawi <joe@mpia.de>
 kyle: Kyle Dawson <kdawson@astro.utah.edu>
 laur: Laurence Littenberg <littenbe@bnl.gov>
+simet: Melanie Simet <msimet@oddjob.uchicago.edu>
 blanton: Michael Blanton <michael.blanton@gmail.com>
 jarvis: Mike Jarvis <michael@jarvis.net>
+swanson: Molly Swanson <mswanson@cfa.harvard.edu>
 morgan: Morgan May <may@bnl.gov>
 nic: Nic Ross <npross@lbl.gov>
 nikhil: Nikhil Padmanabhan <nikhil.padmanabhan@yale.edu>
+pat: Patrick McDonald <pvmcdonald@lbl.gov>
+melchior: Peter Melchior <peter.m.melchior@gmail.com>
+rachel: Rachel Mandelbaum <rmandelb@astro.princeton.edu>
 ryan: Ryan Scranton <ryan.scranton@gmail.com>
-sly: Sarah Lybrand <slybrand@atlasmediacorp.com>
+sly: Sarah Lybrand <slybrand@gmail.com>
+surhud: Surhud More <surhud@kicp.uchicago.edu>
 ludlam: Thomas Ludlam <ludlam@bnl.gov>
 throwe: Thomas Throwe <throwe@bnl.gov>
+oliphant: Travis Oliphant <travis@continuum.io>
+mckinney: Wes McKinney <wesmckinn@gmail.com>
+ying: Ying Zu <zuying@gmail.com>
+yuri: Yuri Fisyak <fisyak@bnl.gov>
 mzm: Zhaoming Ma <mzm@bnl.gov>
+astro: astro-bnl-l <astro-bnl-l@lists.bnl.gov>
+des-wl-test: des-wl-test <des-wl-test@fnal.gov>
+redmapper: redmapper <redmapper@kipac.stanford.edu>
 sdss3-boss: sdss3-boss <sdss3-boss@sdss3.org>

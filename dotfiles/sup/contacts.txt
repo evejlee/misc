@@ -24,6 +24,7 @@ parejko: John K. Parejko <john.parejko@yale.edu>
 hennawi: Joseph Hennawi <joe@mpia.de>
 kyle: Kyle Dawson <kdawson@astro.utah.edu>
 laur: Laurence Littenberg <littenbe@bnl.gov>
+mbecker: Matthew Becker <becker.mr@gmail.com>
 simet: Melanie Simet <msimet@oddjob.uchicago.edu>
 blanton: Michael Blanton <michael.blanton@gmail.com>
 jarvis: Mike Jarvis <michael@jarvis.net>

@@ -1,4 +1,5 @@
 dorothy: "Davis, Dorothy" <dorothyd@bnl.gov>
+ernst: "Ernst, Michael" <mernst@bnl.gov>
 adam: Adam Myers <admyers@illinois.edu>
 plazas: Alejandro Plazas Malagón <plazasmalagon@gmail.com>
 amy: Amy Kimball <kimball.amy.e@gmail.com>
